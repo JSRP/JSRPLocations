@@ -34,9 +34,10 @@ How to use:
 4. Open Unity and open OSUni and match the incoming ports to the Max/MSP outputs. The Unity file should then become responsive. 
 
 
+Examples of Unity project and Impulse Response Samples can be found here:
+https://www.dropbox.com/home/JSRPLocations%20Unity%20and%20Impulse%20Responses
 
-
-
+Have Fun!
 
 
 
